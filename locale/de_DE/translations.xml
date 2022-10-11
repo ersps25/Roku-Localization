@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en-US" target-language="de-DE">
+		<body>
+
+			<trans-unit id="0">
+				<source>Hello</source>
+				<target>Hallo
+				</target>
+			</trans-unit>
+
+
+
+			<trans-unit id="1">
+				<source>How are you?</source>
+				<target>Hoe is het met je?
+				</target>
+			</trans-unit>
+
+			
+		</body>
+	</file>
+</xliff>
