@@ -40,3 +40,8 @@ Brightscript Scenegraph Channel to help developers in localization integration t
 
     localize = createObject("RoLocalization") 
     m.flagIcon.uri = localize.GetLocalizedAsset("images", "flag.png") 'Here flag.png is saved 'images' folder
+
+# For any further help, feel free raise the issue here or connect at
+    
+    Website: www.jhnvi.com
+    Email: shishupal.shakya@jhnvi.com
